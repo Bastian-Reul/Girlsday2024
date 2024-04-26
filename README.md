@@ -5,6 +5,8 @@ der Girlsday ist vorbei und ihr seid hoffentlich heil mit eurem SmartMirror zuha
 Um den Raspberry zu konfigurieren oder auch auszuschalten, müsst ihr entweder eine Tastatur und Maus über einen [Micro USB Hub](https://amzn.eu/d/gOArXy9) an dem Pi anschließen, oder euch über ein [SSH Programm](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html) (putty-64bit-0.81-installer.msi für aktuelle Windows Rechner) mit dem Raspberry verbinden. Ihr könnt euch jedoch nur mit dem Raspberry über einen Computer verbinden, wenn der MagicMirror sich auch erfolgreich in euer WLAN einloggen konnte. Startet der MagicMirror udn zeigt euch die korrekte Uhrzeit an, so sollte auch die Verbindung in euer WLAN in Ordnung sein. 
 Klappt alles wie gewünscht könnt ihr euch jetzt mit der IP-Adresse des Spiegels und dem SSH Client mit dem Spiegel verbinden:
 
+## Tiefergehende Informationen zu eurem Smart Mirror bekommt ihr im [Wiki](https://github.com/Bastian-Reul/Girlsday2024/wiki)
+
 ## Ein paar wichtige Daten:
 Der Benutzername des Users auf dem Pi lautet "pi"
 Der Ort, an welchem Ihr die Hauptkonfiration für den MagicMirror machen könnt, lautet: /home/pi/MagicMirror/config/config.js
