@@ -12,4 +12,9 @@ Um diese Datei zu bearbeiten, müsst ihr in dem SSH Programm den Texteditor "nan
 nano /home/pi/MagicMirror/config/config.js
 Den Text einfach in eurem SSH Programm eingeben, und dann sollte sich die Datei öffnen. Hier könnt ihr jeztz mit den Pfeiltasten navigieren und zu der Stelle springen, an welcher Ihr was ändern möchtet. Um die Änderungen zu speichern, drückt bitte strg-o, dann wird gespeichert und mit strg+x wird das Programm nano wieder beendet. Die "strg" Taste findet ihr vermutlich ganz unten links auf eurer Tastatur. Dann einfach diese Taste gedrückt halten, und die Taste "o" oder "x" zusätzlich drücken.
 
+### Installtionsart
+Hier ist die offizielle Projektseite des [MagicMirrors](https://docs.magicmirror.builders/) 
+Leider unterstützt diese Softwareversion den von uns verwendeten Raspberry Pi Zero nicht. Daher habe ich ein neues raspbian (das reguläre Betriebssystem des Raspberrys) installiert, noch keine updates eingespielt und dann dieses [Installationsscript](https://github.com/sdetweil/MagicMirror_scripts) ausgeführt.
+
+
 
